@@ -47,7 +47,7 @@ jobs:
     env:
       TZ: 'Asia/Shanghai'
       LATEST_VERSION: 7.15.3
-      ARCH: ""
+      ARCH: arm64
 
     steps:
     - name: Checkout repository
