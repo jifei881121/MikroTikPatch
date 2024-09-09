@@ -1,7 +1,7 @@
 name: Patch Mikrotik RouterOS 6.x
 
 on:
-  # push:
+  push:
   #   branches: [ "main" ]
   watch:
   types: [started]
